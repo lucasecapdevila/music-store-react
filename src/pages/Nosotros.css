@@ -1,0 +1,15 @@
+.quienesSomos{
+  margin-bottom: 8em;
+}
+.imagenNosotros img{
+  width: 80%;
+  border-radius: 5px;
+}
+
+.nosotros h3{
+  font-size: 32px;
+}
+
+.imgNosotros{
+  width: 40%;
+}

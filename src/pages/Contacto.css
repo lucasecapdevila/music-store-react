@@ -1,0 +1,66 @@
+.contacto{
+  margin: 50px 0;
+}
+
+body.dark .contacto a{
+  color: #f1f1f1;
+}
+
+body.dark .contacto a:hover{
+  color: hsl(0, 0%, 80%);
+}
+
+.col-12 h2{
+  font-size: 40px;
+}
+
+.item{
+  padding: 20px;
+}
+
+.fila div:nth-child(2){
+  border-left: 1px solid #cfcfcf;
+  border-right: 1px solid #cfcfcf;
+}
+
+.fa-phone,
+.item .fa-location-dot,
+.fa-at{
+  font-size: 80px;
+  margin-bottom: 10px;
+}
+
+.fa-whatsapp{
+  font-size: 20px;
+  margin-right: 5px;
+  color: #25d366;
+}
+
+.fa-envelope{
+  color: #0070d7;
+}
+
+.item p:last-child{
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.faq{
+  text-align: center;
+  margin: 0;
+  padding: 30px;
+  font-size: 18px;
+  border: 1px solid #cfcfcf;
+}
+
+.faq a,
+.item a{
+  text-decoration: none;
+  font-weight: 700;
+  color: #000;
+}
+
+.item a{
+  font-size: 18px;
+  margin-bottom: 16px;
+}

@@ -1,0 +1,125 @@
+.encabezadoCarrito{
+  background: #c0c0c0;
+  padding: 15px;
+}
+
+body.dark .encabezadoCarrito{
+  background: #595959;
+}
+
+.encabezadoCarrito a{
+  margin-right: 65px;
+  font-weight: 300;
+}
+
+body.dark .encabezadoCarrito a{
+  color: hsl(0, 0%, 95%);
+}
+
+.encabezadoCarrito h3{
+  margin: 0 auto;
+}
+
+.carrito{
+  width: 90%;
+}
+
+body.dark .carrito input{
+  background: hsl(210, 11%, 30%);
+  color: #fafafa;
+}
+
+body.dark .carrito input::placeholder{
+  color: #fafafa;
+}
+
+.productosEnCarrito{
+  width: 60%;
+  border: 1px solid #a0a0a0;
+  border-radius: 10px;
+}
+
+.producto{
+  border-bottom: 1px solid #a0a0a0;
+}
+
+.producto:last-child{
+  border: none;
+}
+
+.imagenProducto{
+  width: 25%;
+  padding: 10px;
+}
+
+.imagenProducto p{
+  font-weight: 300;
+  color: #a0a0a0;
+}
+
+.detalleProducto p:first-child{
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.detalleProducto p:last-child{
+  font-weight: 300;
+  font-size: 14px;
+  color: #a0a0a0;
+}
+
+.detalleProducto span,
+.detalleResumen span{
+  font-weight: 700;
+}
+
+.detalleProducto a{
+  border-right: 1px solid #cccccc;
+}
+
+.detalleProducto a:last-of-type{
+  border: none;
+}
+
+.precio{
+  font-size: 30px;
+  font-weight: 300;
+}
+
+.resumen{
+  width: 25%;
+}
+
+.detalleResumen{
+  border: 1px solid #aaa;
+  border-radius: 10px;
+}
+
+.detalleResumen p{
+  margin: 0;
+}
+
+.detalleResumen input{
+  width: 100%;
+  text-align: center;
+  margin: 10px auto;
+  height: 40px;
+}
+
+.detalleResumen img{
+  width: 20%;
+}
+
+.verde{
+  color: #00c800;
+  font-weight: 500;
+}
+
+.recomendados{
+  padding: 20px;
+  width: 75%;
+}
+
+.borrar-producto-compra{
+  cursor: pointer;
+}

@@ -1,0 +1,245 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "titulo": "Gustavo Cerati - Ahí Vamos ",
+      "anio": 2006,
+      "formato": " Cd Nuevo Original ",
+      "precio": 5490,
+      "foto": "Ahi-vamos.webp"
+    },
+    {
+      "id": 2,
+      "titulo": "Intoxicados - Otro día en el Planeta Tierra ",
+      "anio": 2005,
+      "formato": " Cd Nuevo Original",
+      "precio": 9784,
+      "foto": "Otro-dia-en-el-planeta-tierra.webp"
+    },
+    {
+      "id": 3,
+      "titulo": "Patricio Rey y sus Redonditos de Ricota - Oktubre ",
+      "anio": 1986,
+      "formato": " Cd Nuevo",
+      "precio": 7200,
+      "foto": "oktubre.webp"
+    },
+    {
+      "id": 4,
+      "titulo": "Divididos - La era de la boludez ",
+      "anio": 1993,
+      "formato": " Cd Nuevo Original",
+      "precio": 2650,
+      "foto": "La-era-de-la-boludez.webp"
+    },
+    {
+      "id": 5,
+      "titulo": "Divididos - Narigon del Siglo ",
+      "anio": 2000,
+      "formato": " Cd Nuevo Original",
+      "precio": 4999,
+      "foto": "Narigon-del-siglo.webp"
+    },
+    {
+      "id": 6,
+      "titulo": "Blur - The Magic Whip",
+      "anio": 2015,
+      "formato": "Cd Nuevo",
+      "precio": 5490,
+      "foto": "internac-blur.webp"
+    },
+    {
+      "id": 7,
+      "titulo": "Oasis - (What's the Story) Morning Glory ?",
+      "anio": 1995,
+      "formato": "Cd Nuevo",
+      "precio": 9784,
+      "foto": "internac-oasis.webp"
+    },
+    {
+      "id": 8,
+      "titulo": "Muse - Origin of Symmetry",
+      "anio": 2001,
+      "formato": "Cd Nuevo",
+      "precio": 7200,
+      "foto": "internac-muse.webp"
+    },
+    {
+      "id": 9,
+      "titulo": "Taylor Swift - Lover Version Deluxe",
+      "anio": 2019,
+      "formato": "Cd Nuevo",
+      "precio": 2650,
+      "foto": "internac-taylor.webp"
+    },
+    {
+      "id": 10,
+      "titulo": "The Smiths - Meat is Murder",
+      "anio": 1985,
+      "formato": "Cd Nuevo Original",
+      "precio": 4999,
+      "foto": "internac-the-smiths.webp"
+    },
+    {
+      "id": 11,
+      "titulo": "Camila - Dejarte de Amar",
+      "anio": 2010,
+      "formato": "Cd Nuevo Acústico Original",
+      "precio": 5490,
+      "foto": "latino-camila.webp"
+    },
+    {
+      "id": 12,
+      "titulo": "Luis Miguel - Luis Miguel LM",
+      "anio": 2010,
+      "formato": "Cd Nuevo Original",
+      "precio": 9784,
+      "foto": "latino-luis-miguel.webp"
+    },
+    {
+      "id": 13,
+      "titulo": "Maluma - Pretty Boy, Dirty Boy",
+      "anio": 2015,
+      "formato": "Cd Nuevo",
+      "precio": 7200,
+      "foto": "latino-maluma.webp"
+    },
+    {
+      "id": 14,
+      "titulo": "Maná - ¿Dónde jugarán los niños?",
+      "anio": 1992,
+      "formato": "Cd Nuevo",
+      "precio": 2650,
+      "foto": "latino-mana.webp"
+    },
+    {
+      "id": 15,
+      "titulo": "Pablo Alborán - Tanto",
+      "anio": 2012,
+      "formato": "Cd Nuevo Versión Ambiental",
+      "precio": 4999,
+      "foto": "latino-pablo-alboran.webp"
+    },
+    {
+      "id": 16,
+      "titulo": "Arctic Monkeys - Live At The Royal Albert Hall",
+      "anio": 2020,
+      "formato": "Cd Nuevo",
+      "precio": 5490,
+      "foto": "cd-am-live.webp"
+    },
+    {
+      "id": 17,
+      "titulo": "Eddie Vedder - Ukulele Songs",
+      "anio": 2011,
+      "formato": "Cd Cerrado Original",
+      "precio": 9784,
+      "foto": "cd-eddie-vader.webp"
+    },
+    {
+      "id": 18,
+      "titulo": "David Bowie - Brilliant Adventure",
+      "anio": 2021,
+      "formato": "Cd Nuevo Importado Rsd",
+      "precio": 7200,
+      "foto": "cd-david-bowie.webp"
+    },
+    {
+      "id": 19,
+      "titulo": "Megadeth - Warheads On Foreheads",
+      "anio": 2006,
+      "formato": "(3 Cd's) Nuevo Original",
+      "precio": 2650,
+      "foto": "cd-megadeth.webp"
+    },
+    {
+      "id": 20,
+      "titulo": "Queens Of The Stone Age - Villains",
+      "anio": 2017,
+      "formato": "Cd Nuevo Edición Especial",
+      "precio": 4999,
+      "foto": "cd-qotsa.webp"
+    },
+    {
+      "id": 21,
+      "titulo": "Los Autenticos Decadentes - Fiesta nacional",
+      "anio": 2018,
+      "formato": "DVD",
+      "precio": 5490,
+      "foto": "dvd-autenticos.webp"
+    },
+    {
+      "id": 22,
+      "titulo": "Andrés Calamaro - Pura Sangre",
+      "anio": 2014,
+      "formato": "DVD Original",
+      "precio": 9784,
+      "foto": "dvd-calamaro.webp"
+    },
+    {
+      "id": 23,
+      "titulo": "Los Gardelitos - Gardelitografía",
+      "anio": 2016,
+      "formato": "5 CDs + DVD Box Set",
+      "precio": 7200,
+      "foto": "dvd-gardelitos.webp"
+    },
+    {
+      "id": 24,
+      "titulo": "Miranda - Miranda! En Vivo",
+      "anio": 2015,
+      "formato": "DVD Nuevo Original",
+      "precio": 2650,
+      "foto": "dvd-miranda.webp"
+    },
+    {
+      "id": 25,
+      "titulo": "Pier - Flores de Rock & Roll",
+      "anio": 2020,
+      "formato": "DVD Nuevo Original",
+      "precio": 4999,
+      "foto": "dvd-pier.webp"
+    },
+    {
+      "id": 26,
+      "titulo": "Radiohead - Ok Computer",
+      "anio": 1997,
+      "formato": "Vinilo Doble 2 Lp Nuevo",
+      "precio": 5490,
+      "foto": "vinilo-radiohead.webp"
+    },
+    {
+      "id": 27,
+      "titulo": "U2 - Two Hearts / Sunday Bloody Sunday",
+      "anio": 2023,
+      "formato": "Vinilo Maxi Blanco Rsd",
+      "precio": 9784,
+      "foto": "vinilo-u2.webp"
+    },
+    {
+      "id": 28,
+      "titulo": "Harry Styles - Harry's House",
+      "anio": 2022,
+      "formato": "Lp Vinilo Original",
+      "precio": 7200,
+      "foto": "vinilo-harry.webp"
+    },
+    {
+      "id": 29,
+      "titulo": "Mac DeMarco - 2",
+      "anio": 2012,
+      "formato": "Lp Vinilo Original Edición Especial",
+      "precio": 2650,
+      "foto": "vinilo-mac-de-marco.webp"
+    },
+    {
+      "id": 30,
+      "titulo": "Placebo - Without You I'm Nothing",
+      "anio": 1998,
+      "formato": "Vinilo Original",
+      "precio": 4999,
+      "foto": "vinilo-placebo.webp"
+    }
+  ],
+  "carrito": []
+}
